@@ -6,7 +6,7 @@
         xmlns:jr="http://openrosa.org/javarosa"
         >
     <h:head>
-        <h:title>Miramare</h:title>
+        <h:title>Forest Profiling</h:title>
         <model>
             <itext>
                 <translation lang="English" default="">
